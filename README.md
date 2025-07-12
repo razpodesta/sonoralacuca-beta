@@ -216,4 +216,3 @@ Para contribuir al proyecto:
 
 *Desarrollado con ❤️ para Sonora La Cuca*
 
-"# sonoralacuca-beta" 
